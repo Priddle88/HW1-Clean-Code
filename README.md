@@ -11,7 +11,7 @@ After looking at the css, I realized that a lot of the code was repetative. That
 I noticed that the text and images would either collide or extend outside of it's box when the screen would get bigger or smaller. I realized that when the text throughout my page would change when the screen width was around 1020px. I made it so the css would change for those specific elements when the screen would reach that size or smaller. I also noticed that the image for social media marketing was overlapping the blue box it is in. I had to adjust the padding to fix the issue.
 
 ## Site is published at:
-[https://priddle88.github.io/HW1-Clean-Code/](https://priddle88.github.io/HW1-Clean-Code/)
+[https://priddle88.github.io/HW1-Clean-Code/Develop/index.html](https://priddle88.github.io/HW1-Clean-Code/Develop/index.html)
 
 ![screenshot](Develop/assets/images/Screen%20Shot%202022-06-17%20at%209.27.19%20PM.png)
 ![screenshot](Develop/assets/images/Screen%20Shot%202022-06-17%20at%209.27.32%20PM.png)
